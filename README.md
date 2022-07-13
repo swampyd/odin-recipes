@@ -1,1 +1,2 @@
 # odin-recipes
+This project uses the basic skills learned in HTML to build a recipe website. It will use links to get from page to page or even an absoulute link to another website. It may use ordered and unordered lists, piucturs and more.
